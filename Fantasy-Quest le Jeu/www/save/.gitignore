@@ -1,0 +1,10 @@
+
+\.idea/
+
+__pycache__/
+
+reseau/demarrage\.ini
+
+reseau/json/Jeu\.json
+
+/demarrage.ini
